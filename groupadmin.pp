@@ -1,0 +1,2 @@
+group{'adminindukr':
+ensure => 'present'}
